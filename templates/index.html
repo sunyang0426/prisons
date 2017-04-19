@@ -3,5 +3,23 @@
     <head></head>
     <body>
         <h1>State prisons in Missouri</h1>
+        <table border=1 cellpadding=7>
+            <tr>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Security</th>
+                <th>Capacity</th>
+                <th>Facility for gender</th>
+            </tr>
+            {% for obj in object_list %}
+            <tr>
+                <td>{{ obj.name }}</td>
+                <td>{{ obj.location }}</td>
+                <td>{{ obj.security }}</td>
+                <td>{{ obj.capacity }}</td>
+                <td>{{ obj.geneder }}</td>
+            </tr>
+            {% endfor %}
+        </table>
     </body>
 </html>
