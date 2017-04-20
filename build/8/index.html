@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+    <head>
+    	<head>
+    	    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+    	    <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+    	</head>
+    </head>
+    <body>
+    	<div id="map" style="width:100%; height:300px;"></div>
+        <h1>Jefferson City Correctional Center is a maximum, medium security prison in Cole, operated by the Missouri Department of Corrections. The prison was built in 2004, and it can house approximately 1956 male inmates.</h1>
+
+        <script type="text/javascript">
+            var map = L.map('map').setView([38.5472463, -92.0761388], 16);
+            var osmLayer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 10,
+                attribution: 'Data, imagery and map information provided by <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> and contributors.'
+            });
+            map.addLayer(osmLayer);
+            var marker = L.marker([38.5472463, -92.0761388]).addTo(map);
+        </script>
+    </body>
+</html>

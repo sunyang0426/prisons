@@ -1,0 +1,22 @@
+id,name,location,security,capacity,county,x,y,start_year,geneder
+1,Algoa Correctional Center,"8501 No More Victims Road, Jefferson City, Missouri, 65101",Minimum,1537,Cole,-92.0545745,38.5525955,1932,Male
+2,Boonville Correctional Center,"1216 East Morgan Street Boonville, MO 65233-1300",Minimum,1346,Cooper,-92.7317713,38.9775402,1983,Male
+3,Chillicothe Correctional Center,"3151 Litton Road, Chillicothe, MO 64601","Minimum, Medium and Maximum",1636,Livingston,-93.5411406,39.8322546,2008,Female
+4,Crossroads Correctional Center,"1115 East Pence Road, Cameron, MO 64429","Maximum,Medium",1455,Kelabe,-94.2257877,39.7655671,1997,Male
+5,"Eastern Reception, Diagnostic and Correctional Center ","2727 Highway K, Bonne Terre, MO 63628","Minimum, Medium, Maximum and Diagnostic",2721,St. Francois,-90.5163831,37.5064753,2003,Male
+6,Farmington Correctional Center,"1012 West Columbia Street, Farmington, MO 63640","Medium, Minimum",2655,St. Francois,-90.5194152,37.6647686,1986,Male
+7,Fulton Reception and Diagnostic Center,"1393 Highway O, PO Box 190, Fulton, MO 65251","Minimum, Diagnostic",1302,Callaway,-91.9260818,38.8450992,1986,Male
+8,Jefferson City Correctional Center,"8200 No More Victims Road, Jefferson City, MO 65101","Maximum, Medium",1956,Cole,-92.0761388,38.5472463,2004,Male
+9,Kansas City Reentry Center,"651 Mulberry, Kansas City, MO 64101",Minimum,430,Kansas City,-94.5967258,39.1055069,2015,Male
+10,Maryville Treatment Center,"30227 US Highway 136, Maryville, MO 64468",Minimum,561,Nodaway,-94.8173689,40.3454027,1996,Male
+11,Missouri Eastern Correctional Center,"18701 US Highway 66, Pacific, MO 63069","Medium, Minimum",1100,St. Louis,-90.7050389,38.4893158,1981,Male
+12,Moberly Correctional Center,"5201 South Morley, Moberly, MO 65270","Medium, Minimum",1800,Randolph,-92.4398741,39.3632322,1963,Male
+13,Northeast Correctional Center,"13698 Airport Road, Bowling Green, MO 63334","Medium, Minimum",2106,Pike,-91.2306496,39.3676777,1998,Male
+14,Ozark Correctional Center,"929 Honor Camp Lane, Fordland, MO 65652",Minimum,738,Webster,-92.8782384,37.1497655,1963,Male
+15,Potosi Correctional Center,"11593 State Highway O, Mineral Point, MO 63660","Minimum, Medium, Maximum",912,Washington,-90.7384038,37.936062,1989,Male
+16,South Central Correctional Center,"255 West Highway 32, Licking, MO 65542","Minimum, Medium, Maximum",1643,Texas,-91.8754329,37.5050724,2000,Male
+17,Southeast Correctional Center,"300 East Pedro Simmons Drive, Charleston, MO 63834","Minimum, Medium, Maximum",1643,Mississippi,-89.3496665,36.8944989,2001,Male
+18,Tipton Correctional Center,"619 North Osage Avenue, Tipton, MO 65081, Tipton, MO 65081",Minimum,1222,Moniteau,-92.932185,38.5067061,1913,Male
+19,Western Missouri Correctional Center,"609 East Pence Road, Cameron, MO 64429","Medium, Minimum",1958,Kelabe,-95.3731285,39.2350428,1988,Male
+20,"Western Reception, Diagnostic and Correctional Center","3401 Faraon, St Joseph, MO 64506","Minimum, Diagnostic",1968,Buchanan,-94.771902,39.6448649,1999,Male
+21,"Women's Eastern Reception, Diagnostic and Correctional Center","1101 East Highway 54, Vandalia, MO 63382","Minimum, Medium, Maximum, Diagnostic",2076,Audrain,-91.4204383,39.4348191,1998,Female
